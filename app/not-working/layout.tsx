@@ -5,7 +5,7 @@ export default function Layout({ children }: any) {
     <div style={{ display: "flex", flexDirection: "column", gap: "12px" }}>
       <div
         style={{
-          height: "800px",
+          height: "1200px",
           width: "100%",
           background: "slateblue",
           display: "flex",
